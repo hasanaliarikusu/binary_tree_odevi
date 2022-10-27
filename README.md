@@ -5,12 +5,12 @@ Kodluyoruz binary tree ödevi
 
                   7
               5       8
-          1               9         
-            3
-              6
-            0
-               4
-            2
+          1     6          9         
+      0      3
+            2   4
+            
+               
+            
         
 
 
